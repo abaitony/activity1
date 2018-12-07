@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Activity1</string>
     <string name="compute">COMPUTE</string>
+    <string name="taxi_fair_calculator">TAXI FARE CALCULATOR</string>
+    <string name="distance">Distance</string>
+    <string name="duration">Duration</string>
+    <string name="total_fare">Total Fare:</string>
 </resources>
